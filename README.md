@@ -1,3 +1,3 @@
-# Learning Machine learning
+# Deep Learning with Flux
 
-This repository contains my experiments as I learn Machine Learning.
+This repository contains examples of Deep Learning models using Flux.
